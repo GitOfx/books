@@ -1,4 +1,4 @@
-1,ui线程更新
+###,ui线程更新
 只有创建线程中才能更新UI
 onresume
 viewRootImpl创建后
